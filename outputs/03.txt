@@ -1,0 +1,40 @@
+Detected Atributes:
+
+A red heart with a crack in it
+A red heart with a broken heart
+
+JSON:
+{
+  "apim-request-id": "0827bcc5-f81f-422a-93eb-9db36ec0991a",
+  "content-length": "341",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "denseCaptionsResult": {
+    "values": [
+      {
+        "text": "a red heart with a crack in it",
+        "confidence": 0.714210033416748,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 890,
+          "h": 890
+        }
+      },
+      {
+        "text": "a red heart with a broken heart",
+        "confidence": 0.6320526003837585,
+        "boundingBox": {
+          "x": 90,
+          "y": 148,
+          "w": 674,
+          "h": 556
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "width": 890,
+    "height": 890
+  }
+}

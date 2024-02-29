@@ -1,0 +1,72 @@
+Detected Atributes:
+A blue and white hexagon with a blue and white design
+A blue and white hexagon with a swirl of water
+A blue and white swirly water
+A blue arrow on a black background
+A blue and white wave
+
+JSON:
+{
+  "apim-request-id": "48d9c1a7-e2a2-4b05-9d05-2af42fe7dac8",
+  "content-length": "734",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "denseCaptionsResult": {
+    "values": [
+      {
+        "text": "a blue and white hexagon with a blue and white design",
+        "confidence": 0.6354851722717285,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 618,
+          "h": 632
+        }
+      },
+      {
+        "text": "a blue and white hexagon with a swirl of water",
+        "confidence": 0.7041044235229492,
+        "boundingBox": {
+          "x": 11,
+          "y": 85,
+          "w": 594,
+          "h": 450
+        }
+      },
+      {
+        "text": "a blue and white swirly water",
+        "confidence": 0.624594509601593,
+        "boundingBox": {
+          "x": 133,
+          "y": 127,
+          "w": 347,
+          "h": 355
+        }
+      },
+      {
+        "text": "a blue arrow on a black background",
+        "confidence": 0.799940288066864,
+        "boundingBox": {
+          "x": 108,
+          "y": 0,
+          "w": 183,
+          "h": 96
+        }
+      },
+      {
+        "text": "a blue and white wave",
+        "confidence": 0.6707606911659241,
+        "boundingBox": {
+          "x": 138,
+          "y": 167,
+          "w": 237,
+          "h": 236
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "width": 618,
+    "height": 632
+  }
+}

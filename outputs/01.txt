@@ -1,0 +1,129 @@
+Detected Atributes:
+
+A video game screen with a cartoon character on a cliff
+A blurry image of a doll
+A close up of a sign
+A tree with green leaves
+A green diamond on a green surface
+A blurry image of a brown object
+A video game screen with a cartoon character on a cliff
+A red heart on a green surface
+A close up of a face
+A red diamond on a green background
+
+JSON:
+
+{
+  "apim-request-id": "4189c13c-8d27-412a-9eeb-2c143bd8ab20",
+  "content-length": "1345",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "denseCaptionsResult": {
+    "values": [
+      {
+        "text": "a video game screen with a cartoon character on a cliff",
+        "confidence": 0.6934308409690857,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 1780,
+          "h": 1352
+        }
+      },
+      {
+        "text": "a blurry image of a doll",
+        "confidence": 0.8435525298118591,
+        "boundingBox": {
+          "x": 185,
+          "y": 379,
+          "w": 156,
+          "h": 343
+        }
+      },
+      {
+        "text": "a close up of a sign",
+        "confidence": 0.6869771480560303,
+        "boundingBox": {
+          "x": 92,
+          "y": 1228,
+          "w": 317,
+          "h": 115
+        }
+      },
+      {
+        "text": "a tree with green leaves",
+        "confidence": 0.6810823082923889,
+        "boundingBox": {
+          "x": 5,
+          "y": 5,
+          "w": 1741,
+          "h": 363
+        }
+      },
+      {
+        "text": "a green diamond on a green surface",
+        "confidence": 0.7687750458717346,
+        "boundingBox": {
+          "x": 119,
+          "y": 22,
+          "w": 102,
+          "h": 96
+        }
+      },
+      {
+        "text": "a blurry image of a brown object",
+        "confidence": 0.7046467661857605,
+        "boundingBox": {
+          "x": 1515,
+          "y": 1077,
+          "w": 218,
+          "h": 221
+        }
+      },
+      {
+        "text": "a video game screen with a cartoon character on a cliff",
+        "confidence": 0.6996493935585022,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 1741,
+          "h": 1241
+        }
+      },
+      {
+        "text": "a red heart on a green surface",
+        "confidence": 0.7754071950912476,
+        "boundingBox": {
+          "x": 728,
+          "y": 2,
+          "w": 1015,
+          "h": 153
+        }
+      },
+      {
+        "text": "a close up of a face",
+        "confidence": 0.7051342725753784,
+        "boundingBox": {
+          "x": 96,
+          "y": 1231,
+          "w": 127,
+          "h": 116
+        }
+      },
+      {
+        "text": "a red diamond on a green background",
+        "confidence": 0.7473783493041992,
+        "boundingBox": {
+          "x": 116,
+          "y": 182,
+          "w": 104,
+          "h": 107
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "width": 1780,
+    "height": 1352
+  }
+}

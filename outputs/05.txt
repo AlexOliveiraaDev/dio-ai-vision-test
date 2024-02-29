@@ -1,0 +1,73 @@
+Detected Atributes:
+
+Several receipt with black text
+A receipt printed on paper
+Several receipt with black text
+A pile of receipt papers
+Close-up of a receipt
+
+JSON:
+{
+  "apim-request-id": "cc15b853-97ae-4e5c-b36f-bbf0fab3c7dd",
+  "content-length": "679",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "denseCaptionsResult": {
+    "values": [
+      {
+        "text": "several receipt with black text",
+        "confidence": 0.5361331701278687,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 612,
+          "h": 406
+        }
+      },
+      {
+        "text": "a receipt printed on paper",
+        "confidence": 0.6535994410514832,
+        "boundingBox": {
+          "x": 238,
+          "y": 0,
+          "w": 293,
+          "h": 344
+        }
+      },
+      {
+        "text": "several receipt with black text",
+        "confidence": 0.5409941673278809,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 598,
+          "h": 394
+        }
+      },
+      {
+        "text": "a pile of receipt papers",
+        "confidence": 0.614622175693512,
+        "boundingBox": {
+          "x": 63,
+          "y": 0,
+          "w": 278,
+          "h": 386
+        }
+      },
+      {
+        "text": "close-up of a receipt",
+        "confidence": 0.8933372497558594,
+        "boundingBox": {
+          "x": 122,
+          "y": 0,
+          "w": 104,
+          "h": 294
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "width": 612,
+    "height": 406
+  }
+}

@@ -1,0 +1,39 @@
+Detected Atributes:
+
+A cartoon of a girl wearing a chef hat
+
+JSON:
+{
+  "apim-request-id": "b43d0190-e4fd-418e-bd0c-27293149d2a7",
+  "content-length": "356",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "denseCaptionsResult": {
+    "values": [
+      {
+        "text": "a cartoon of a girl wearing a chef hat",
+        "confidence": 0.7905809879302979,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 612,
+          "h": 490
+        }
+      },
+      {
+        "text": "a cartoon of a girl wearing a chef hat",
+        "confidence": 0.8041272759437561,
+        "boundingBox": {
+          "x": 102,
+          "y": 9,
+          "w": 395,
+          "h": 438
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "width": 612,
+    "height": 490
+  }
+}
